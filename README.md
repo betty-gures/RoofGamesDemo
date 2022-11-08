@@ -1,3 +1,7 @@
+# Requirements 
+
+[Roof Games Case Unity (1).pdf](https://github.com/betty-gures/RoofGamesDemo/files/9963435/Roof.Games.Case.Unity.1.pdf)
+
 # RoofGamesDemo
 
 How to play:
