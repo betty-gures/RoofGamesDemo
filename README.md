@@ -1,12 +1,14 @@
 # [Demo video here](https://www.youtube.com/shorts/TU6JHC16v7c)
 
-![RoofGamesDemo_-_Start_Scene_-_PC__Mac___Linux_Standalone_-_Unity_2019_4_20f1_Personal__DX11__2022-02-21_12-17-19_AdobeExpress_AdobeExpress (1)](https://user-images.githubusercontent.com/60520606/200631638-19017ddb-d9eb-4742-a25d-278dab4802b1.gif)
-
 # Requirements 
 
 [Roof Games Case Unity.pdf](https://github.com/betty-gures/RoofGamesDemo/files/9963435/Roof.Games.Case.Unity.1.pdf)
 
 The test project is in the form of a game inspired by “Space Invaders”. Unity version must be 2019.4.20.
+
+
+![RoofGamesDemo_-_Start_Scene_-_PC__Mac___Linux_Standalone_-_Unity_2019_4_20f1_Personal__DX11__2022-02-21_12-17-19_AdobeExpress_AdobeExpress (1)](https://user-images.githubusercontent.com/60520606/200631638-19017ddb-d9eb-4742-a25d-278dab4802b1.gif)
+
 
 ## The purpose of the game:
 
